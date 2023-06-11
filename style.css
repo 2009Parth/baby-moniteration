@@ -1,0 +1,31 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+font-family: 'Rubik Puddles', cursive;
+font-weight: 800;
+}
+#note
+{
+    font-family: cursive;
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+}
+#status
+{
+font-size: 18px;
+}
+canvas
+{
+box-shadow: 10px 10px 50px grey;
+border-radius: 10px;
+margin-top: 60px;
+}
